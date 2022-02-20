@@ -60,19 +60,19 @@
     "url": "https://pa-admin.la-razon.com",
     "icon": "https://favicons.githubusercontent.com/pa-admin.la-razon.com",
     "slug": "el-loro-de-oro-admin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 771,
-    "timeWeek": 680,
-    "timeMonth": 680,
-    "timeYear": 680,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 686,
+    "timeDay": 766,
+    "timeWeek": 690,
+    "timeMonth": 686,
+    "timeYear": 686,
     "dailyMinutesDown": {
-      "2022-02-20": 0
+      "2022-02-20": 11
     }
   },
   {
