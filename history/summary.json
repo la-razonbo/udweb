@@ -42,19 +42,19 @@
     "url": "https://lorodeoro.la-razon.com",
     "icon": "https://favicons.githubusercontent.com/lorodeoro.la-razon.com",
     "slug": "el-loro-de-oro",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "97.72%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "95.18%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
     "time": 984,
-    "timeDay": 743,
+    "timeDay": 856,
     "timeWeek": 966,
     "timeMonth": 984,
     "timeYear": 984,
     "dailyMinutesDown": {
-      "2022-02-26": 33
+      "2022-02-26": 69
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://pa-admin.la-razon.com",
     "icon": "https://favicons.githubusercontent.com/pa-admin.la-razon.com",
     "slug": "el-loro-de-oro-admin",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "97.76%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 669,
-    "timeDay": 550,
-    "timeWeek": 665,
-    "timeMonth": 669,
-    "timeYear": 669,
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
+    "time": 670,
+    "timeDay": 620,
+    "timeWeek": 668,
+    "timeMonth": 670,
+    "timeYear": 670,
     "dailyMinutesDown": {
-      "2022-02-26": 32
+      "2022-02-26": 69
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "https://game.la-razon.com",
     "icon": "https://favicons.githubusercontent.com/game.la-razon.com",
     "slug": "lr-game",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "95.25%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
     "time": 709,
-    "timeDay": 561,
-    "timeWeek": 689,
+    "timeDay": 641,
+    "timeWeek": 693,
     "timeMonth": 709,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2022-02-26": 32
+      "2022-02-26": 68
     }
   }
 ]
