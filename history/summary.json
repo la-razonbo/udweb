@@ -85,9 +85,9 @@
     "url": "https://la-razon.ventas.com.bo",
     "icon": "https://favicons.githubusercontent.com/la-razon.ventas.com.bo",
     "slug": "lr-store",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -96,7 +96,9 @@
     "timeWeek": 1076,
     "timeMonth": 929,
     "timeYear": 1072,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-06": 0
+    }
   },
   {
     "name": "LR Game",
