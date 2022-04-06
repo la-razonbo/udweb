@@ -85,19 +85,19 @@
     "url": "https://la-razon.ventas.com.bo",
     "icon": "https://favicons.githubusercontent.com/la-razon.ventas.com.bo",
     "slug": "lr-store",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1072,
-    "timeDay": 1863,
-    "timeWeek": 1076,
-    "timeMonth": 929,
-    "timeYear": 1072,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 1062,
+    "timeDay": 1171,
+    "timeWeek": 1001,
+    "timeMonth": 915,
+    "timeYear": 1062,
     "dailyMinutesDown": {
-      "2022-04-06": 0
+      "2022-04-06": 31
     }
   },
   {
