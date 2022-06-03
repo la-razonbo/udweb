@@ -13,8 +13,8 @@ sites:
     url: https://pa-admin.la-razon.com
   - name: LR Store
     url: https://la-razon.ventas.com.bo
-  - name: LR Game
-    url: https://game.la-razon.com
+  - name: LR QR Generator
+    url: https://qr.la-razon.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
