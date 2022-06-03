@@ -1,4 +1,4 @@
-# [📈 Live Status](https://udweb.la-razon.com): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://udweb.la-razon.com): <!--live status--> **🟩 Todos systems operational**
 
 This repository contains the open-source uptime monitor and status page for [La Razón](www.la-razon.com), powered by [Upptime](https://github.com/upptime/upptime).
 
