@@ -51,9 +51,9 @@
     "url": "https://lorodeoro.la-razon.com",
     "icon": "https://favicons.githubusercontent.com/lorodeoro.la-razon.com",
     "slug": "el-loro-de-oro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.78%",
@@ -63,6 +63,7 @@
     "timeMonth": 1126,
     "timeYear": 1075,
     "dailyMinutesDown": {
+      "2022-06-30": 1,
       "2022-06-29": 33,
       "2022-06-28": 22,
       "2022-06-22": 35,
@@ -85,9 +86,9 @@
     "url": "https://pa-admin.la-razon.com",
     "icon": "https://favicons.githubusercontent.com/pa-admin.la-razon.com",
     "slug": "el-loro-de-oro-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
@@ -97,6 +98,7 @@
     "timeMonth": 909,
     "timeYear": 773,
     "dailyMinutesDown": {
+      "2022-06-30": 0,
       "2022-06-29": 31,
       "2022-02-26": 69
     }
