@@ -89,9 +89,9 @@
     "url": "https://pa-admin.la-razon.com",
     "icon": "https://favicons.githubusercontent.com/pa-admin.la-razon.com",
     "slug": "el-loro-de-oro-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.93%",
@@ -101,6 +101,7 @@
     "timeMonth": 913,
     "timeYear": 777,
     "dailyMinutesDown": {
+      "2022-07-02": 0,
       "2022-06-30": 37,
       "2022-06-29": 31,
       "2022-02-26": 69
