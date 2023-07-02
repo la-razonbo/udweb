@@ -9,8 +9,8 @@ sites:
     url: https://www.la-razon.com/login
   - name: El Loro de Oro
     url: https://lorodeoro.la-razon.com
-  - name: El Loro de Oro (ADMIN)
-    url: https://pa-admin.la-razon.com
+  - name: El Loro (ADMIN)
+    url: https://lorodeoro.la-razon.com/admin
   - name: LR Store
     url: https://la-razon.ventas.com.bo
   - name: LR QR Generator
@@ -26,7 +26,7 @@ status-website:
   name: Monitor de Servicios
   introTitle: "**UDWEB** Monitor de servicios en línea."
   # TeroRERO introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  introMessage: © Derechos Reservados  2022
+  introMessage: © Derechos Reservados  2023
   navbar:
     - title: UDWEB
       href: /
