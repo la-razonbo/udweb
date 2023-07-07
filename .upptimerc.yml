@@ -9,8 +9,10 @@ sites:
     url: https://www.la-razon.com/login
   - name: El Loro de Oro
     url: https://lorodeoro.la-razon.com
+    icon: https://lorodeoro.la-razon.com/img/logo/favicon.png
   - name: El Loro (ADMIN)
     url: https://lorodeoro.la-razon.com/admin
+    icon: https://lorodeoro.la-razon.com/img/logo/favicon.png
   - name: LR Store
     url: https://la-razon.ventas.com.bo
   - name: LR QR Generator
