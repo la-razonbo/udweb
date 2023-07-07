@@ -19,6 +19,8 @@ sites:
     url: https://la-razon.ventas.com.bo
   - name: LR QR Generator
     url: https://qr.la-razon.com
+  - name: Paper by Sisetic
+    url: https://paper.la-razon.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
