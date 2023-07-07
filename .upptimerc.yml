@@ -5,8 +5,10 @@ repo: udweb # The name of this repository
 sites:
   - name: La Razón
     url: https://www.la-razon.com
+    icon: https://cdn.jsdelivr.net/gh/la-razonbo/udweb@master/assets/lr-icon.svg
   - name: Login LR
     url: https://www.la-razon.com/login
+    icon: https://cdn.jsdelivr.net/gh/la-razonbo/udweb@master/assets/lr-icon.svg
   - name: El Loro de Oro
     url: https://lorodeoro.la-razon.com
     icon: https://lorodeoro.la-razon.com/img/logo/favicon.png
