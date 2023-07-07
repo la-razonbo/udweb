@@ -104,7 +104,7 @@ i18n:
   errorText: Puede volver a intentarlo en unos momentos.
   errorHome: Ir a la página de inicio
   pastScheduledMaintenance: Mantenimiento programado pasado
-  scheduledMaintenance: Mantenimiento programado
+  scheduledMaintenance: "Mantenimiento programado:"
   scheduledMaintenanceSummaryStarted: Comenzó en $DATE durante $DURATION minutos
   scheduledMaintenanceSummaryStarts: Comienza en $DATE durante $DURATION minutos
   startedAt: Comenzó en
