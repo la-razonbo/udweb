@@ -39,7 +39,8 @@ status-website:
 i18n:
 # Pasando a spanish locale
 # TeroRERO  
-  activeIncidents: Incidentes Activos
+  activeIncidents: "Incidentes Activos:"
+#  activeIncidents: Incidentes Activos
 # allSystemsOperational: Todos los sistemas están operativos
   allSystemsOperational: "🟩 Todos los sistemas operativos"
   incidentReport: "Informe del incidente #$NUMBER →"
@@ -55,10 +56,12 @@ i18n:
   incidentViewOnGitHub: Ver en GitHub
   incidentCommentSummary: Publicado el $DATE por $AUTHOR
   incidentBack: ← Volver a todos los incidentes
-  pastIncidents: Incidentes pasados
+#  pastIncidents: Incidentes pasados
+  pastIncidents: "Incidentes Pasados:"
   pastIncidentsResolved: Corregido en $MINUTES minutos con $POSTS mensajes
-# liveStatus: Estado en vivo
-  liveStatus: Estado Actual
+# liveStatus: Estado Actual
+  liveStatus: "Estado Actual:"
+  liveStatusHtmlComment: "<!--estado actual-->"
   overallUptime: "Tiempo de actividad: $UPTIME"
   overallUptimeTitle: Tiempo de actividad global
   averageResponseTime: "Tiempo medio de respuesta: $TIMEms"
@@ -108,4 +111,4 @@ i18n:
   duration7D: 7d
   duration30D: 30d
   duration1Y: 1a
-  durationAll: full
+  durationAll: todo
