@@ -57,7 +57,8 @@ i18n:
   incidentBack: ← Volver a todos los incidentes
   pastIncidents: Incidentes pasados
   pastIncidentsResolved: Corregido en $MINUTES minutos con $POSTS mensajes
-  liveStatus: Estado en vivo
+# liveStatus: Estado en vivo
+  liveStatus: Estado Actual
   overallUptime: "Tiempo de actividad: $UPTIME"
   overallUptimeTitle: Tiempo de actividad global
   averageResponseTime: "Tiempo medio de respuesta: $TIMEms"
