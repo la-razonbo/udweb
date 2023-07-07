@@ -29,7 +29,7 @@ status-website:
   # baseUrl: /your-repo-name
   # TeroRERO logoUrl: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/66001010677/logo/pPWZrSW4eHKCLOBW2YBtn0m-1Yp6zlJa7g.png
 # old TeroRERO    logoUrl: https://raw.githubusercontent.com/la-razonbo/udweb/master/assets/la-razon-logo.png
-  logoUrl: https://cdn.jsdelivr.net/gh/la-razonbo/udweb@master/assets/la-razon-logo.png
+  logoUrl: https://cdn.jsdelivr.net/gh/la-razonbo/udweb@master/assets/2-la-razon-logo.png
   name: Monitor de Servicios
   introTitle: "**UDWEB** Monitor de servicios en línea."
 # old TeroRERO  favicon: https://raw.githubusercontent.com/la-razonbo/udweb/master/assets/lr-icon.svg
