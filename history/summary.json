@@ -131,19 +131,19 @@
     "url": "https://dev-qa.la-razon.com",
     "icon": "https://cdn.jsdelivr.net/gh/la-razonbo/udweb@master/assets/lr-icon.svg",
     "slug": "lr-dev-qa",
-    "status": "down",
-    "uptime": "97.38%",
-    "uptimeDay": "90.80%",
-    "uptimeWeek": "97.38%",
-    "uptimeMonth": "97.38%",
-    "uptimeYear": "97.38%",
-    "time": 119,
-    "timeDay": 135,
-    "timeWeek": 119,
-    "timeMonth": 119,
-    "timeYear": 119,
+    "status": "up",
+    "uptime": "96.00%",
+    "uptimeDay": "85.74%",
+    "uptimeWeek": "96.00%",
+    "uptimeMonth": "96.00%",
+    "uptimeYear": "96.00%",
+    "time": 667,
+    "timeDay": 1118,
+    "timeWeek": 667,
+    "timeMonth": 667,
+    "timeYear": 667,
     "dailyMinutesDown": {
-      "2023-07-10": 132
+      "2023-07-10": 205
     }
   }
 ]
