@@ -16,7 +16,7 @@
     "timeMonth": 82,
     "timeYear": 206,
     "dailyMinutesDown": {
-      "2023-08-17": 40,
+      "2023-08-17": 42,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
@@ -74,7 +74,7 @@
     "timeMonth": 13,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2023-08-17": 40,
+      "2023-08-17": 42,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
@@ -133,7 +133,7 @@
     "timeMonth": 95,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2023-08-17": 40,
+      "2023-08-17": 42,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
@@ -192,7 +192,7 @@
     "timeMonth": 13,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2023-08-17": 40,
+      "2023-08-17": 42,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
@@ -238,18 +238,19 @@
     "url": "https://la-razon.ventas.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/la-razon.ventas.com.bo.ico",
     "slug": "lr-store",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.68%",
-    "time": 1346,
+    "time": 1350,
     "timeDay": 3087,
     "timeWeek": 2423,
     "timeMonth": 2225,
     "timeYear": 2132,
     "dailyMinutesDown": {
+      "2023-08-17": 0,
       "2023-08-08": 34,
       "2022-08-30": 644,
       "2022-08-18": 939
@@ -290,7 +291,7 @@
     "timeMonth": 81,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2023-08-17": 40,
+      "2023-08-17": 42,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
