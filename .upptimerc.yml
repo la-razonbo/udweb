@@ -62,7 +62,7 @@ i18n:
   incidentOpenedAt: Abierto en
   incidentClosedAt: Cerrado en
   incidentSubscribe: Suscribirse a las actualizaciones
-  incidentViewOnGitHub: Ver en GitHub
+  incidentViewOnGitHub: Ver detalles en GitHub
   incidentCommentSummary: Publicado el $DATE por $AUTHOR
   incidentBack: ← Volver a todos los incidentes
 #  pastIncidents: Incidentes pasados
