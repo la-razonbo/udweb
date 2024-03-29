@@ -16,7 +16,7 @@
     "timeMonth": 81,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2024-03-29": 431,
+      "2024-03-29": 444,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
@@ -321,7 +321,7 @@
     "timeMonth": 94,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2024-03-29": 431,
+      "2024-03-29": 444,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
@@ -605,7 +605,7 @@
     "timeMonth": 19,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2024-03-29": 431,
+      "2024-03-29": 444,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
@@ -907,19 +907,19 @@
     "url": "https://qr.la-razon.com",
     "icon": "https://icons.duckduckgo.com/ip3/qr.la-razon.com.ico",
     "slug": "lr-qr-generator",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 1165,
-    "timeWeek": 391,
-    "timeMonth": 199,
+    "time": 138,
+    "timeDay": 810,
+    "timeWeek": 359,
+    "timeMonth": 196,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2024-03-29": 0
+      "2024-03-29": 13
     }
   },
   {
@@ -939,7 +939,7 @@
     "timeMonth": 81,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-03-29": 431,
+      "2024-03-29": 444,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
