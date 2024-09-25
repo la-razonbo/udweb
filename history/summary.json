@@ -5,18 +5,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/la-razonbo/udweb@master/assets/lr-icon.svg",
     "slug": "la-razon",
     "status": "down",
-    "uptime": "53.91%",
+    "uptime": "53.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 145,
-    "timeDay": 94,
-    "timeWeek": 102,
-    "timeMonth": 110,
+    "timeDay": 115,
+    "timeWeek": 98,
+    "timeMonth": 111,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2024-09-24": 59,
+      "2024-09-25": 60,
+      "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
@@ -379,8 +380,7 @@
       "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
-      "2023-09-27": 1440,
-      "2023-09-26": 1440
+      "2023-09-27": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 323,
-    "timeDay": 384,
-    "timeWeek": 308,
-    "timeMonth": 348,
+    "timeDay": 136,
+    "timeWeek": 262,
+    "timeMonth": 341,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2024-05-22": 1152,
@@ -415,18 +415,19 @@
     "icon": "https://lorodeoro.la-razon.com/img/logo/favicon.png",
     "slug": "el-loro-de-oro",
     "status": "down",
-    "uptime": "53.86%",
+    "uptime": "53.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 235,
-    "timeDay": 96,
-    "timeWeek": 108,
+    "time": 233,
+    "timeDay": 102,
+    "timeWeek": 114,
     "timeMonth": 98,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2024-09-24": 59,
+      "2024-09-25": 60,
+      "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
@@ -789,8 +790,7 @@
       "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
-      "2023-09-27": 1440,
-      "2023-09-26": 1440
+      "2023-09-27": 1440
     }
   },
   {
@@ -799,18 +799,19 @@
     "icon": "https://lorodeoro.la-razon.com/img/logo/favicon.png",
     "slug": "el-loro-admin",
     "status": "down",
-    "uptime": "1.90%",
+    "uptime": "1.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 83,
-    "timeDay": 10,
-    "timeWeek": 18,
+    "time": 82,
+    "timeDay": 8,
+    "timeWeek": 14,
     "timeMonth": 16,
     "timeYear": 13,
     "dailyMinutesDown": {
-      "2024-09-24": 59,
+      "2024-09-25": 60,
+      "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
@@ -1173,8 +1174,7 @@
       "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
-      "2023-09-27": 1440,
-      "2023-09-26": 1440
+      "2023-09-27": 1440
     }
   },
   {
@@ -1188,10 +1188,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "98.03%",
-    "time": 1924,
-    "timeDay": 1583,
-    "timeWeek": 1413,
-    "timeMonth": 1453,
+    "time": 1923,
+    "timeDay": 1292,
+    "timeWeek": 1392,
+    "timeMonth": 1438,
     "timeYear": 1836,
     "dailyMinutesDown": {
       "2024-08-30": 430,
@@ -1222,8 +1222,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 101,
-    "timeWeek": 161,
+    "timeDay": 158,
+    "timeWeek": 169,
     "timeMonth": 146,
     "timeYear": 137,
     "dailyMinutesDown": {}
@@ -1240,12 +1240,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 95,
-    "timeDay": 66,
-    "timeWeek": 88,
-    "timeMonth": 100,
+    "timeDay": 121,
+    "timeWeek": 91,
+    "timeMonth": 101,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2024-09-24": 59,
+      "2024-09-25": 60,
+      "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
@@ -1608,8 +1609,7 @@
       "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
-      "2023-09-27": 1440,
-      "2023-09-26": 1440
+      "2023-09-27": 1440
     }
   }
 ]
