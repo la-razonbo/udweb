@@ -5,18 +5,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/la-razonbo/udweb@master/assets/lr-icon.svg",
     "slug": "la-razon",
     "status": "down",
-    "uptime": "52.53%",
+    "uptime": "52.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 124,
-    "timeDay": 103,
-    "timeWeek": 118,
+    "timeDay": 52,
+    "timeWeek": 105,
     "timeMonth": 112,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2024-10-19": 58,
+      "2024-10-20": 64,
+      "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
@@ -379,8 +380,7 @@
       "2023-10-25": 1440,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
-      "2023-10-22": 1440,
-      "2023-10-21": 1440
+      "2023-10-22": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.42%",
     "time": 326,
-    "timeDay": 124,
-    "timeWeek": 314,
-    "timeMonth": 353,
+    "timeDay": 149,
+    "timeWeek": 275,
+    "timeMonth": 354,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2024-05-22": 1152,
@@ -415,18 +415,19 @@
     "icon": "https://lorodeoro.la-razon.com/img/logo/favicon.png",
     "slug": "el-loro-de-oro",
     "status": "down",
-    "uptime": "52.49%",
+    "uptime": "52.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 206,
-    "timeDay": 106,
-    "timeWeek": 121,
-    "timeMonth": 108,
+    "time": 204,
+    "timeDay": 58,
+    "timeWeek": 110,
+    "timeMonth": 106,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2024-10-19": 58,
+      "2024-10-20": 64,
+      "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
@@ -789,8 +790,7 @@
       "2023-10-25": 1440,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
-      "2023-10-22": 1440,
-      "2023-10-21": 1440
+      "2023-10-22": 1440
     }
   },
   {
@@ -799,18 +799,19 @@
     "icon": "https://lorodeoro.la-razon.com/img/logo/favicon.png",
     "slug": "el-loro-admin",
     "status": "down",
-    "uptime": "1.80%",
+    "uptime": "1.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 79,
-    "timeDay": 8,
+    "timeDay": 11,
     "timeWeek": 11,
     "timeMonth": 13,
     "timeYear": 13,
     "dailyMinutesDown": {
-      "2024-10-19": 58,
+      "2024-10-20": 64,
+      "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
@@ -1173,8 +1174,7 @@
       "2023-10-25": 1440,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
-      "2023-10-22": 1440,
-      "2023-10-21": 1440
+      "2023-10-22": 1440
     }
   },
   {
@@ -1183,16 +1183,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/la-razon.ventas.com.bo.ico",
     "slug": "lr-store",
     "status": "up",
-    "uptime": "99.00%",
+    "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.03%",
-    "time": 1940,
-    "timeDay": 5135,
-    "timeWeek": 2356,
-    "timeMonth": 1908,
-    "timeYear": 1840,
+    "time": 1936,
+    "timeDay": 1346,
+    "timeWeek": 2297,
+    "timeMonth": 1909,
+    "timeYear": 1839,
     "dailyMinutesDown": {
       "2024-08-30": 430,
       "2024-08-23": 44,
@@ -1222,8 +1222,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 195,
-    "timeWeek": 134,
+    "timeDay": 146,
+    "timeWeek": 142,
     "timeMonth": 135,
     "timeYear": 137,
     "dailyMinutesDown": {}
@@ -1240,12 +1240,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 95,
-    "timeDay": 62,
-    "timeWeek": 102,
-    "timeMonth": 95,
+    "timeDay": 60,
+    "timeWeek": 90,
+    "timeMonth": 93,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2024-10-19": 58,
+      "2024-10-20": 64,
+      "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
@@ -1608,8 +1609,7 @@
       "2023-10-25": 1440,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
-      "2023-10-22": 1440,
-      "2023-10-21": 1440
+      "2023-10-22": 1440
     }
   }
 ]
