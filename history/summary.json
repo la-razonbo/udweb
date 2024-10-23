@@ -5,18 +5,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/la-razonbo/udweb@master/assets/lr-icon.svg",
     "slug": "la-razon",
     "status": "down",
-    "uptime": "52.37%",
+    "uptime": "52.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 124,
-    "timeDay": 111,
-    "timeWeek": 109,
-    "timeMonth": 112,
-    "timeYear": 98,
+    "time": 128,
+    "timeDay": 2346,
+    "timeWeek": 427,
+    "timeMonth": 187,
+    "timeYear": 104,
     "dailyMinutesDown": {
-      "2024-10-22": 60,
+      "2024-10-23": 59,
+      "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -379,8 +380,7 @@
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
-      "2023-10-25": 1440,
-      "2023-10-24": 1440
+      "2023-10-25": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
-    "time": 325,
-    "timeDay": 91,
-    "timeWeek": 212,
-    "timeMonth": 342,
-    "timeYear": 325,
+    "time": 324,
+    "timeDay": 92,
+    "timeWeek": 211,
+    "timeMonth": 335,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2024-05-22": 1152,
       "2024-05-21": 1440,
@@ -415,18 +415,19 @@
     "icon": "https://lorodeoro.la-razon.com/img/logo/favicon.png",
     "slug": "el-loro-de-oro",
     "status": "down",
-    "uptime": "52.33%",
+    "uptime": "52.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 201,
-    "timeDay": 168,
-    "timeWeek": 104,
-    "timeMonth": 106,
-    "timeYear": 91,
+    "timeDay": 265,
+    "timeWeek": 126,
+    "timeMonth": 111,
+    "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-10-22": 60,
+      "2024-10-23": 59,
+      "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -789,8 +790,7 @@
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
-      "2023-10-25": 1440,
-      "2023-10-24": 1440
+      "2023-10-25": 1440
     }
   },
   {
@@ -805,12 +805,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 78,
-    "timeDay": 9,
-    "timeWeek": 11,
-    "timeMonth": 12,
+    "timeDay": 64,
+    "timeWeek": 18,
+    "timeMonth": 14,
     "timeYear": 13,
     "dailyMinutesDown": {
-      "2024-10-22": 60,
+      "2024-10-23": 59,
+      "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -1173,8 +1174,7 @@
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
-      "2023-10-25": 1440,
-      "2023-10-24": 1440
+      "2023-10-25": 1440
     }
   },
   {
@@ -1188,10 +1188,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.03%",
-    "time": 1931,
-    "timeDay": 1766,
-    "timeWeek": 2348,
-    "timeMonth": 1922,
+    "time": 1928,
+    "timeDay": 1624,
+    "timeWeek": 2380,
+    "timeMonth": 1927,
     "timeYear": 1837,
     "dailyMinutesDown": {
       "2024-08-30": 430,
@@ -1221,10 +1221,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 220,
-    "timeWeek": 165,
-    "timeMonth": 138,
+    "time": 138,
+    "timeDay": 216,
+    "timeWeek": 173,
+    "timeMonth": 139,
     "timeYear": 138,
     "dailyMinutesDown": {}
   },
@@ -1239,13 +1239,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 95,
-    "timeDay": 45,
-    "timeWeek": 82,
-    "timeMonth": 92,
+    "time": 96,
+    "timeDay": 280,
+    "timeWeek": 108,
+    "timeMonth": 97,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2024-10-22": 60,
+      "2024-10-23": 59,
+      "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -1608,8 +1609,7 @@
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
-      "2023-10-25": 1440,
-      "2023-10-24": 1440
+      "2023-10-25": 1440
     }
   }
 ]
