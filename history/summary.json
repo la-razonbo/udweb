@@ -5,18 +5,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/la-razonbo/udweb@master/assets/lr-icon.svg",
     "slug": "la-razon",
     "status": "down",
-    "uptime": "51.69%",
+    "uptime": "51.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 121,
-    "timeDay": 99,
+    "timeDay": 119,
     "timeWeek": 125,
     "timeMonth": 187,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2024-11-04": 61,
+      "2024-11-05": 58,
+      "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
@@ -379,8 +380,7 @@
       "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
-      "2023-11-07": 1440,
-      "2023-11-06": 1440
+      "2023-11-07": 1440
     }
   },
   {
@@ -393,11 +393,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 324,
-    "timeDay": 85,
-    "timeWeek": 315,
-    "timeMonth": 306,
+    "timeDay": 448,
+    "timeWeek": 303,
+    "timeMonth": 309,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2024-05-22": 1152,
@@ -413,18 +413,19 @@
     "icon": "https://lorodeoro.la-razon.com/img/logo/favicon.png",
     "slug": "el-loro-de-oro",
     "status": "down",
-    "uptime": "51.65%",
+    "uptime": "51.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 183,
-    "timeDay": 116,
-    "timeWeek": 129,
-    "timeMonth": 118,
+    "time": 181,
+    "timeDay": 77,
+    "timeWeek": 121,
+    "timeMonth": 117,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2024-11-04": 61,
+      "2024-11-05": 58,
+      "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
@@ -787,8 +788,7 @@
       "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
-      "2023-11-07": 1440,
-      "2023-11-06": 1440
+      "2023-11-07": 1440
     }
   },
   {
@@ -797,18 +797,19 @@
     "icon": "https://lorodeoro.la-razon.com/img/logo/favicon.png",
     "slug": "el-loro-admin",
     "status": "down",
-    "uptime": "1.74%",
+    "uptime": "1.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 77,
-    "timeDay": 9,
-    "timeWeek": 13,
+    "timeDay": 10,
+    "timeWeek": 12,
     "timeMonth": 13,
     "timeYear": 13,
     "dailyMinutesDown": {
-      "2024-11-04": 61,
+      "2024-11-05": 58,
+      "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
@@ -1171,8 +1172,7 @@
       "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
-      "2023-11-07": 1440,
-      "2023-11-06": 1440
+      "2023-11-07": 1440
     }
   },
   {
@@ -1186,10 +1186,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.03%",
-    "time": 1924,
-    "timeDay": 1649,
-    "timeWeek": 1888,
-    "timeMonth": 2080,
+    "time": 1923,
+    "timeDay": 1951,
+    "timeWeek": 1893,
+    "timeMonth": 1997,
     "timeYear": 1833,
     "dailyMinutesDown": {
       "2024-08-30": 430,
@@ -1220,8 +1220,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 201,
-    "timeWeek": 150,
+    "timeDay": 85,
+    "timeWeek": 152,
     "timeMonth": 145,
     "timeYear": 139,
     "dailyMinutesDown": {}
@@ -1238,12 +1238,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 96,
-    "timeDay": 58,
-    "timeWeek": 98,
-    "timeMonth": 105,
+    "timeDay": 123,
+    "timeWeek": 105,
+    "timeMonth": 107,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2024-11-04": 61,
+      "2024-11-05": 58,
+      "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
@@ -1606,8 +1607,7 @@
       "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
-      "2023-11-07": 1440,
-      "2023-11-06": 1440
+      "2023-11-07": 1440
     }
   }
 ]
