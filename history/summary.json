@@ -5,18 +5,19 @@
     "icon": "https://cdn.jsdelivr.net/gh/la-razonbo/udweb@master/assets/lr-icon.svg",
     "slug": "la-razon",
     "status": "down",
-    "uptime": "51.28%",
+    "uptime": "51.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 120,
-    "timeDay": 159,
-    "timeWeek": 146,
+    "timeDay": 122,
+    "timeWeek": 130,
     "timeMonth": 194,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2024-11-12": 58,
+      "2024-11-13": 59,
+      "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
@@ -379,8 +380,7 @@
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440
+      "2023-11-15": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.46%",
-    "time": 325,
-    "timeDay": 194,
-    "timeWeek": 363,
-    "timeMonth": 307,
-    "timeYear": 326,
+    "time": 324,
+    "timeDay": 127,
+    "timeWeek": 344,
+    "timeMonth": 298,
+    "timeYear": 325,
     "dailyMinutesDown": {
       "2024-05-22": 1152,
       "2024-05-21": 1440,
@@ -413,18 +413,19 @@
     "icon": "https://lorodeoro.la-razon.com/img/logo/favicon.png",
     "slug": "el-loro-de-oro",
     "status": "down",
-    "uptime": "51.24%",
+    "uptime": "51.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 170,
-    "timeDay": 92,
-    "timeWeek": 124,
-    "timeMonth": 125,
+    "time": 168,
+    "timeDay": 99,
+    "timeWeek": 116,
+    "timeMonth": 124,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2024-11-12": 58,
+      "2024-11-13": 59,
+      "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
@@ -787,8 +788,7 @@
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440
+      "2023-11-15": 1440
     }
   },
   {
@@ -802,13 +802,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 76,
-    "timeDay": 18,
-    "timeWeek": 15,
+    "time": 75,
+    "timeDay": 11,
+    "timeWeek": 14,
     "timeMonth": 14,
     "timeYear": 13,
     "dailyMinutesDown": {
-      "2024-11-12": 58,
+      "2024-11-13": 59,
+      "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
@@ -1171,8 +1172,7 @@
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440
+      "2023-11-15": 1440
     }
   },
   {
@@ -1186,11 +1186,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.03%",
-    "time": 1923,
-    "timeDay": 1557,
-    "timeWeek": 2335,
-    "timeMonth": 2043,
-    "timeYear": 1839,
+    "time": 1921,
+    "timeDay": 1653,
+    "timeWeek": 1958,
+    "timeMonth": 2039,
+    "timeYear": 1838,
     "dailyMinutesDown": {
       "2024-08-30": 430,
       "2024-08-23": 44,
@@ -1220,9 +1220,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 244,
-    "timeWeek": 165,
-    "timeMonth": 156,
+    "timeDay": 204,
+    "timeWeek": 163,
+    "timeMonth": 159,
     "timeYear": 139,
     "dailyMinutesDown": {}
   },
@@ -1238,12 +1238,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 96,
-    "timeDay": 109,
-    "timeWeek": 98,
-    "timeMonth": 109,
+    "timeDay": 126,
+    "timeWeek": 102,
+    "timeMonth": 108,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2024-11-12": 58,
+      "2024-11-13": 59,
+      "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
@@ -1606,8 +1607,7 @@
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440
+      "2023-11-15": 1440
     }
   }
 ]
