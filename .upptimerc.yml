@@ -19,8 +19,8 @@ sites:
     url: https://la-razon.ventas.com.bo
   - name: LR QR Generator
     url: https://qr.la-razon.com
-  - name: ROOT24
-    url: https://www.root24.eu.org
+  - name: DEVINCONDE
+    url: https://www.devinconde.com
 # old TeroRERO    icon: https://cdn.jsdelivr.net/gh/la-razonbo/udweb@master/assets/lr-icon.svg
 
 status-website:
