@@ -5,15 +5,15 @@
     "icon": "https://cdn.jsdelivr.net/gh/la-razonbo/udweb@master/assets/lr-icon.svg",
     "slug": "la-razon",
     "status": "down",
-    "uptime": "52.76%",
+    "uptime": "52.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.97%",
+    "uptimeYear": "17.25%",
     "time": 104,
-    "timeDay": 119,
-    "timeWeek": 112,
-    "timeMonth": 105,
+    "timeDay": 117,
+    "timeWeek": 109,
+    "timeMonth": 107,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2024-12-10": 126,
@@ -316,8 +316,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
@@ -331,11 +330,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.46%",
-    "time": 331,
-    "timeDay": 459,
-    "timeWeek": 376,
-    "timeMonth": 346,
-    "timeYear": 336,
+    "time": 330,
+    "timeDay": 120,
+    "timeWeek": 327,
+    "timeMonth": 337,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2024-05-22": 1152,
       "2024-05-21": 1440,
@@ -350,15 +349,15 @@
     "icon": "https://lorodeoro.la-razon.com/img/logo/favicon.png",
     "slug": "el-loro-de-oro",
     "status": "down",
-    "uptime": "52.73%",
+    "uptime": "52.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.97%",
+    "uptimeYear": "17.25%",
     "time": 96,
-    "timeDay": 131,
-    "timeWeek": 106,
-    "timeMonth": 113,
+    "timeDay": 117,
+    "timeWeek": 95,
+    "timeMonth": 115,
     "timeYear": 101,
     "dailyMinutesDown": {
       "2024-12-10": 126,
@@ -661,8 +660,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
@@ -671,15 +669,15 @@
     "icon": "https://lorodeoro.la-razon.com/img/logo/favicon.png",
     "slug": "el-loro-admin",
     "status": "down",
-    "uptime": "12.12%",
+    "uptime": "12.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.97%",
+    "uptimeYear": "17.25%",
     "time": 13,
-    "timeDay": 18,
-    "timeWeek": 12,
-    "timeMonth": 13,
+    "timeDay": 32,
+    "timeWeek": 15,
+    "timeMonth": 14,
     "timeYear": 14,
     "dailyMinutesDown": {
       "2024-12-10": 127,
@@ -982,8 +980,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
@@ -997,11 +994,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "98.00%",
-    "time": 1969,
-    "timeDay": 1813,
-    "timeWeek": 1783,
-    "timeMonth": 2912,
-    "timeYear": 1960,
+    "time": 1967,
+    "timeDay": 1839,
+    "timeWeek": 1794,
+    "timeMonth": 2913,
+    "timeYear": 1959,
     "dailyMinutesDown": {
       "2025-01-27": 55,
       "2024-12-23": 22,
@@ -1033,9 +1030,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 128,
-    "timeWeek": 148,
-    "timeMonth": 148,
+    "timeDay": 191,
+    "timeWeek": 157,
+    "timeMonth": 152,
     "timeYear": 156,
     "dailyMinutesDown": {}
   },
@@ -1050,11 +1047,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 390,
-    "timeDay": 395,
-    "timeWeek": 379,
-    "timeMonth": 414,
-    "timeYear": 390,
+    "time": 392,
+    "timeDay": 508,
+    "timeWeek": 403,
+    "timeMonth": 422,
+    "timeYear": 392,
     "dailyMinutesDown": {}
   }
 ]
