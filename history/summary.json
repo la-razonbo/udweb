@@ -5,15 +5,15 @@
     "icon": "https://cdn.jsdelivr.net/gh/la-razonbo/udweb@master/assets/lr-icon.svg",
     "slug": "la-razon",
     "status": "down",
-    "uptime": "53.81%",
+    "uptime": "53.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "24.06%",
+    "uptimeYear": "24.09%",
     "time": 106,
-    "timeDay": 68,
-    "timeWeek": 122,
-    "timeMonth": 114,
+    "timeDay": 135,
+    "timeWeek": 120,
+    "timeMonth": 115,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2024-12-10": 126,
@@ -292,8 +292,7 @@
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
-      "2024-03-09": 1440,
-      "2024-03-08": 1440
+      "2024-03-09": 1440
     }
   },
   {
@@ -307,10 +306,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.46%",
-    "time": 332,
-    "timeDay": 361,
-    "timeWeek": 347,
-    "timeMonth": 361,
+    "time": 333,
+    "timeDay": 458,
+    "timeWeek": 345,
+    "timeMonth": 365,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2024-05-22": 1152,
@@ -326,16 +325,16 @@
     "icon": "https://lorodeoro.la-razon.com/img/logo/favicon.png",
     "slug": "el-loro-de-oro",
     "status": "down",
-    "uptime": "53.77%",
+    "uptime": "53.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "24.06%",
+    "uptimeYear": "24.10%",
     "time": 96,
-    "timeDay": 140,
-    "timeWeek": 113,
-    "timeMonth": 100,
-    "timeYear": 102,
+    "timeDay": 121,
+    "timeWeek": 121,
+    "timeMonth": 101,
+    "timeYear": 103,
     "dailyMinutesDown": {
       "2024-12-10": 126,
       "2024-12-09": 1440,
@@ -613,8 +612,7 @@
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
-      "2024-03-09": 1440,
-      "2024-03-08": 1440
+      "2024-03-09": 1440
     }
   },
   {
@@ -623,14 +621,14 @@
     "icon": "https://lorodeoro.la-razon.com/img/logo/favicon.png",
     "slug": "el-loro-admin",
     "status": "down",
-    "uptime": "15.68%",
+    "uptime": "15.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "24.06%",
+    "uptimeYear": "24.10%",
     "time": 13,
-    "timeDay": 10,
-    "timeWeek": 11,
+    "timeDay": 9,
+    "timeWeek": 12,
     "timeMonth": 12,
     "timeYear": 14,
     "dailyMinutesDown": {
@@ -910,8 +908,7 @@
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
-      "2024-03-09": 1440,
-      "2024-03-08": 1440
+      "2024-03-09": 1440
     }
   },
   {
@@ -921,17 +918,16 @@
     "slug": "lr-store",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "97.97%",
-    "time": 2001,
-    "timeDay": 2622,
-    "timeWeek": 2055,
-    "timeMonth": 1978,
+    "time": 2000,
+    "timeDay": 1861,
+    "timeWeek": 2012,
+    "timeMonth": 1971,
     "timeYear": 1978,
     "dailyMinutesDown": {
-      "2025-03-07": 11,
       "2025-02-27": 19,
       "2025-02-23": 105,
       "2025-02-14": 46,
@@ -949,8 +945,7 @@
       "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
-      "2024-03-15": 1362,
-      "2024-03-08": 52
+      "2024-03-15": 1362
     }
   },
   {
@@ -964,10 +959,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 116,
-    "timeWeek": 152,
-    "timeMonth": 153,
+    "time": 150,
+    "timeDay": 146,
+    "timeWeek": 157,
+    "timeMonth": 155,
     "timeYear": 158,
     "dailyMinutesDown": {}
   },
@@ -983,9 +978,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 407,
-    "timeDay": 546,
-    "timeWeek": 469,
-    "timeMonth": 442,
+    "timeDay": 383,
+    "timeWeek": 459,
+    "timeMonth": 443,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2025-02-12": 21
